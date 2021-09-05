@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "EShopSolutionDatabase": "Server=MSI\\SQLEXPRESS;Database=eShopSolution;Trusted_Connection=true;MultipleActiveResultSets=true;User Id=sa;Password=olivier;Integrated Security=False"
+  }
+}
