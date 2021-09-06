@@ -16,4 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\eShopSolution.Application\eShopSolution.Application.csproj" />
+    <ProjectReference Include="..\eShopSolution.Data\eShopSolution.Data.csproj" />
+  </ItemGroup>
+
 </Project>
