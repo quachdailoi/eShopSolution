@@ -9,5 +9,6 @@
 - Microsoft.Extensions.Configuration.Json v3.1.18
 - Microsoft.Extensions.Configuration.FileExtension v3.1.18
 - Microsoft.EntityFrameworkCore.Relational v3.1.18
+- Microsoft.AspNetCore.Identity.EntityFrameworkCore v3.1.18
 ## How to configure and run
 ## How to contribute
